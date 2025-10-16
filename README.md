@@ -8,10 +8,7 @@ Características do sistema:
 4. Mostrar os itens do pedido, como: Nome, preço, quantidade e subtotal do produto em questão.
 5. Mostrar o preço total do pedido.
 
-Ferramentas utilizadas: 
-Vs code
-Java
-Git/Github
+Ferramentas utilizadas: Vs code | Java | Git/Github
 
 Status: Em andamento.
 
